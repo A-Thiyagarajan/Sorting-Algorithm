@@ -36,14 +36,9 @@ def selection_sort(nums):
 list_of_nums = eval(input())
 selection_sort(list_of_nums)
 
-
-
-
 ```
 ii)	Insertion Sort
 ```
-
-
 Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: A.Thiyagarajan
 RegisterNumber: 212222240110
@@ -59,25 +54,20 @@ def insertion_sort(nums):
     print(nums)
 list_of_nums = eval(input())
 insertion_sort(list_of_nums)
-
-
-
-
 ```
 
 ## Output:
 
 
 
-### Selection Sort:
+### Insertion Sort:
 ![2023-05-22 (1)](https://github.com/A-Thiyagarajan/Sorting-Algorithm/assets/118707693/fd2b8c92-96c1-4145-9248-3816fb0bd765)
 
 
 
 
 
-
-### Insertion Sort:
+### Selection Sort:
 ![2023-05-22](https://github.com/A-Thiyagarajan/Sorting-Algorithm/assets/118707693/83081f98-3633-4ae7-9194-a727acc35220)
 
 
